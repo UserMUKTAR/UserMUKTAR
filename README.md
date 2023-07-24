@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @UserMUKTAR
-- 👀 I’m interested in coding and management 
-- 🌱 I’m currently learning Java and python
+- 👋 Hi, I’m @UserMUKTAR 
+- 🌱 I’m currently coding in Java 
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me => muktarmerch83@gmail.com
 
